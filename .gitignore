@@ -1,0 +1,3 @@
+cache/
+articles/*
+!articles/hello-world.md
